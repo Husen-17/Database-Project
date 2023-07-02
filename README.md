@@ -25,5 +25,4 @@ section X, providing a comprehensive overview of all relations. Sections XI, XII
 implementation of the database on Oracle DBMS using SQL, including creating the tables, inserting data
 (forming a sample database state), and querying the database respectively. Section XIV then deals with 
 normalizing, or decomposing, relations to meet the standards of all normal forms ranging from the first 
-normal form to the Boyce-Codd normal form. Wrapping up this phase of the project is a conclusion
-(section XV) discussing a summary of the updated report and potentially beneficial use cases for endusers
+normal form to the Boyce-Codd normal form. 
